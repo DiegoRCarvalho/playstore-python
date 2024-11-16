@@ -1,0 +1,6 @@
+venv
+assets/Google-Playstore.csv
+assets/playstore.csv
+model/__pycache__
+view/__pycache__
+controller/__pycache__
